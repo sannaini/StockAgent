@@ -1,3 +1,9 @@
 <Solution>
+  <Project Path="StockAgent.API.Contracts/StockAgent.API.Contracts.csproj" Id="06448cfb-711f-44af-986a-b690f490c3e4" />
   <Project Path="StockAgent.API/StockAgent.API.csproj" Id="a2481628-7ae5-4907-8723-66386d6bf9d2" />
+  <Project Path="StockAgent.Application.Contracts/StockAgent.Application.Contracts.csproj" Id="a32d5221-4307-431f-8031-c3358f400429" />
+  <Project Path="StockAgent.Application/StockAgent.Application.csproj" Id="ae6c92b7-ee52-48ad-8f8b-bfe4510ef28e" />
+  <Project Path="StockAgent.Domain/StockAgent.Domain.csproj" Id="75409707-d2b7-40e9-9623-e0dbbeeebba9" />
+  <Project Path="StockAgent.Infrastructure/StockAgent.Infrastructure.csproj" Id="069639aa-e7e5-44f3-9ab1-575beb1073d7" />
+  <Project Path="StockAgent.Shared/StockAgent.Shared.csproj" Id="aed8c6cb-b619-4bf7-ba04-9bf952c1da1a" />
 </Solution>
