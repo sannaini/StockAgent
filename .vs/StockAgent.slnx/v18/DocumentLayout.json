@@ -3,23 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2481628-7AE5-4907-8723-66386D6BF9D2}|StockAgent.API\\StockAgent.API.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2481628-7AE5-4907-8723-66386D6BF9D2}|StockAgent.API\\StockAgent.API.csproj|solutionrelative:stockagent.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AE6C92B7-EE52-48AD-8F8B-BFE4510EF28E}|StockAgent.Application\\StockAgent.Application.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.application\\services\\stockingestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C92B7-EE52-48AD-8F8B-BFE4510EF28E}|StockAgent.Application\\StockAgent.Application.csproj|solutionrelative:stockagent.application\\services\\stockingestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2481628-7AE5-4907-8723-66386D6BF9D2}|StockAgent.API\\StockAgent.API.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2481628-7AE5-4907-8723-66386D6BF9D2}|StockAgent.API\\StockAgent.API.csproj|solutionrelative:stockagent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.infrastructure\\clients\\finnhubclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|solutionrelative:stockagent.infrastructure\\clients\\finnhubclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2481628-7AE5-4907-8723-66386D6BF9D2}|StockAgent.API\\StockAgent.API.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2481628-7AE5-4907-8723-66386D6BF9D2}|StockAgent.API\\StockAgent.API.csproj|solutionrelative:stockagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A32D5221-4307-431F-8031-C3358F400429}|StockAgent.Application.Contracts\\StockAgent.Application.Contracts.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.application.contracts\\models\\stockprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32D5221-4307-431F-8031-C3358F400429}|StockAgent.Application.Contracts\\StockAgent.Application.Contracts.csproj|solutionrelative:stockagent.application.contracts\\models\\stockprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2481628-7AE5-4907-8723-66386D6BF9D2}|StockAgent.API\\StockAgent.API.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.api\\stockagent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2481628-7AE5-4907-8723-66386D6BF9D2}|StockAgent.API\\StockAgent.API.csproj|solutionrelative:stockagent.api\\stockagent.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A32D5221-4307-431F-8031-C3358F400429}|StockAgent.Application.Contracts\\StockAgent.Application.Contracts.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.application.contracts\\interfaces\\services\\istockingestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32D5221-4307-431F-8031-C3358F400429}|StockAgent.Application.Contracts\\StockAgent.Application.Contracts.csproj|solutionrelative:stockagent.application.contracts\\interfaces\\services\\istockingestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SanthoshNaini\\.nuget\\packages\\microsoft.openapi\\2.7.5\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.infrastructure\\common\\httpresponseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|solutionrelative:stockagent.infrastructure\\common\\httpresponseextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.infrastructure\\clients\\models\\finnhubprofileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|solutionrelative:stockagent.infrastructure\\clients\\models\\finnhubprofileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.infrastructure\\common\\externalapiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|solutionrelative:stockagent.infrastructure\\common\\externalapiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9135D0A-8D57-44DD-96B2-D25F15C6A5A7}|StockAgent.Workers\\StockAgent.Worker.Ingestion\\StockAgent.Worker.Ingestion.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.workers\\stockagent.worker.ingestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9135D0A-8D57-44DD-96B2-D25F15C6A5A7}|StockAgent.Workers\\StockAgent.Worker.Ingestion\\StockAgent.Worker.Ingestion.csproj|solutionrelative:stockagent.workers\\stockagent.worker.ingestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9135D0A-8D57-44DD-96B2-D25F15C6A5A7}|StockAgent.Workers\\StockAgent.Worker.Ingestion\\StockAgent.Worker.Ingestion.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.workers\\stockagent.worker.ingestion\\stockpriceingestionworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9135D0A-8D57-44DD-96B2-D25F15C6A5A7}|StockAgent.Workers\\StockAgent.Worker.Ingestion\\StockAgent.Worker.Ingestion.csproj|solutionrelative:stockagent.workers\\stockagent.worker.ingestion\\stockpriceingestionworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.infrastructure\\mappers\\mappersdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|solutionrelative:stockagent.infrastructure\\mappers\\mappersdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.infrastructure\\mappers\\finnhubprofilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|solutionrelative:stockagent.infrastructure\\mappers\\finnhubprofilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.infrastructure\\clients\\services\\addfinnhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|solutionrelative:stockagent.infrastructure\\clients\\services\\addfinnhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C92B7-EE52-48AD-8F8B-BFE4510EF28E}|StockAgent.Application\\StockAgent.Application.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.application\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C92B7-EE52-48AD-8F8B-BFE4510EF28E}|StockAgent.Application\\StockAgent.Application.csproj|solutionrelative:stockagent.application\\services\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32D5221-4307-431F-8031-C3358F400429}|StockAgent.Application.Contracts\\StockAgent.Application.Contracts.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.application.contracts\\interfaces\\clients\\istockapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32D5221-4307-431F-8031-C3358F400429}|StockAgent.Application.Contracts\\StockAgent.Application.Contracts.csproj|solutionrelative:stockagent.application.contracts\\interfaces\\clients\\istockapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.infrastructure\\clients\\finnhuboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|solutionrelative:stockagent.infrastructure\\clients\\finnhuboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9135D0A-8D57-44DD-96B2-D25F15C6A5A7}|StockAgent.Workers\\StockAgent.Worker.Ingestion\\StockAgent.Worker.Ingestion.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.workers\\stockagent.worker.ingestion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9135D0A-8D57-44DD-96B2-D25F15C6A5A7}|StockAgent.Workers\\StockAgent.Worker.Ingestion\\StockAgent.Worker.Ingestion.csproj|solutionrelative:stockagent.workers\\stockagent.worker.ingestion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75409707-D2B7-40E9-9623-E0DBBEEEBBA9}|StockAgent.Domain\\StockAgent.Domain.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.domain\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75409707-D2B7-40E9-9623-E0DBBEEEBBA9}|StockAgent.Domain\\StockAgent.Domain.csproj|solutionrelative:stockagent.domain\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75409707-D2B7-40E9-9623-E0DBBEEEBBA9}|StockAgent.Domain\\StockAgent.Domain.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.domain\\valueobjects\\isin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75409707-D2B7-40E9-9623-E0DBBEEEBBA9}|StockAgent.Domain\\StockAgent.Domain.csproj|solutionrelative:stockagent.domain\\valueobjects\\isin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.infrastructure\\stockagent.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{069639AA-E7E5-44F3-9AB1-575BEB1073D7}|StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj|solutionrelative:stockagent.infrastructure\\stockagent.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75409707-D2B7-40E9-9623-E0DBBEEEBBA9}|StockAgent.Domain\\StockAgent.Domain.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.domain\\enums\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75409707-D2B7-40E9-9623-E0DBBEEEBBA9}|StockAgent.Domain\\StockAgent.Domain.csproj|solutionrelative:stockagent.domain\\enums\\sector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75409707-D2B7-40E9-9623-E0DBBEEEBBA9}|StockAgent.Domain\\StockAgent.Domain.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.domain\\enums\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75409707-D2B7-40E9-9623-E0DBBEEEBBA9}|StockAgent.Domain\\StockAgent.Domain.csproj|solutionrelative:stockagent.domain\\enums\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75409707-D2B7-40E9-9623-E0DBBEEEBBA9}|StockAgent.Domain\\StockAgent.Domain.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.domain\\enums\\exchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75409707-D2B7-40E9-9623-E0DBBEEEBBA9}|StockAgent.Domain\\StockAgent.Domain.csproj|solutionrelative:stockagent.domain\\enums\\exchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32D5221-4307-431F-8031-C3358F400429}|StockAgent.Application.Contracts\\StockAgent.Application.Contracts.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.application.contracts\\interfaces\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A32D5221-4307-431F-8031-C3358F400429}|StockAgent.Application.Contracts\\StockAgent.Application.Contracts.csproj|solutionrelative:stockagent.application.contracts\\interfaces\\repositories\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C92B7-EE52-48AD-8F8B-BFE4510EF28E}|StockAgent.Application\\StockAgent.Application.csproj|c:\\users\\santhoshnaini\\desktop\\santhosh-personal\\learning\\stockagent\\stockagent.application\\stockagent.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE6C92B7-EE52-48AD-8F8B-BFE4510EF28E}|StockAgent.Application\\StockAgent.Application.csproj|solutionrelative:stockagent.application\\stockagent.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,68 +142,294 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExternalApiException.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Common\\ExternalApiException.cs",
+              "RelativeDocumentMoniker": "StockAgent.Infrastructure\\Common\\ExternalApiException.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Common\\ExternalApiException.cs",
+              "RelativeToolTip": "StockAgent.Infrastructure\\Common\\ExternalApiException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:27:57.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpResponseExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Common\\HttpResponseExtensions.cs",
+              "RelativeDocumentMoniker": "StockAgent.Infrastructure\\Common\\HttpResponseExtensions.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Common\\HttpResponseExtensions.cs",
+              "RelativeToolTip": "StockAgent.Infrastructure\\Common\\HttpResponseExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:27:44.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappersDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Mappers\\MappersDependencyInjection.cs",
+              "RelativeDocumentMoniker": "StockAgent.Infrastructure\\Mappers\\MappersDependencyInjection.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Mappers\\MappersDependencyInjection.cs",
+              "RelativeToolTip": "StockAgent.Infrastructure\\Mappers\\MappersDependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:19:57.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinnHubClient.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Clients\\FinnHubClient.cs",
+              "RelativeDocumentMoniker": "StockAgent.Infrastructure\\Clients\\FinnHubClient.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Clients\\FinnHubClient.cs",
+              "RelativeToolTip": "StockAgent.Infrastructure\\Clients\\FinnHubClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:51:18.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinnHubProfileResponse.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Clients\\Models\\FinnHubProfileResponse.cs",
+              "RelativeDocumentMoniker": "StockAgent.Infrastructure\\Clients\\Models\\FinnHubProfileResponse.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Clients\\Models\\FinnHubProfileResponse.cs",
+              "RelativeToolTip": "StockAgent.Infrastructure\\Clients\\Models\\FinnHubProfileResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:55:24.238Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "StockAgent.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "StockAgent.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-07T19:18:34.79Z",
+              "Title": "StockIngestionService.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application\\Services\\StockIngestionService.cs",
+              "RelativeDocumentMoniker": "StockAgent.Application\\Services\\StockIngestionService.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application\\Services\\StockIngestionService.cs",
+              "RelativeToolTip": "StockAgent.Application\\Services\\StockIngestionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T18:21:43.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockProfile.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application.Contracts\\Models\\StockProfile.cs",
+              "RelativeDocumentMoniker": "StockAgent.Application.Contracts\\Models\\StockProfile.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application.Contracts\\Models\\StockProfile.cs",
+              "RelativeToolTip": "StockAgent.Application.Contracts\\Models\\StockProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:59:00.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StockAgent.API",
-              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.API\\StockAgent.API.csproj",
-              "RelativeDocumentMoniker": "StockAgent.API\\StockAgent.API.csproj",
-              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.API\\StockAgent.API.csproj",
-              "RelativeToolTip": "StockAgent.API\\StockAgent.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-07T19:15:31.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\.nuget\\packages\\microsoft.openapi\\2.7.5\\README.md",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.openapi\\2.7.5\\README.md",
-              "ToolTip": "C:\\Users\\SanthoshNaini\\.nuget\\packages\\microsoft.openapi\\2.7.5\\README.md [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.openapi\\2.7.5\\README.md [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-07-07T19:10:00.533Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.API\\Program.cs",
-              "RelativeDocumentMoniker": "StockAgent.API\\Program.cs",
-              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.API\\Program.cs",
-              "RelativeToolTip": "StockAgent.API\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Title": "IStockIngestionService.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application.Contracts\\Interfaces\\Services\\IStockIngestionService.cs",
+              "RelativeDocumentMoniker": "StockAgent.Application.Contracts\\Interfaces\\Services\\IStockIngestionService.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application.Contracts\\Interfaces\\Services\\IStockIngestionService.cs",
+              "RelativeToolTip": "StockAgent.Application.Contracts\\Interfaces\\Services\\IStockIngestionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T18:56:11.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-09T17:33:04.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "FinnHubProfileMapper.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Mappers\\FinnHubProfileMapper.cs",
+              "RelativeDocumentMoniker": "StockAgent.Infrastructure\\Mappers\\FinnHubProfileMapper.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Mappers\\FinnHubProfileMapper.cs",
+              "RelativeToolTip": "StockAgent.Infrastructure\\Mappers\\FinnHubProfileMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T20:07:56.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddFinnHub.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Clients\\Services\\AddFinnHub.cs",
+              "RelativeDocumentMoniker": "StockAgent.Infrastructure\\Clients\\Services\\AddFinnHub.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Clients\\Services\\AddFinnHub.cs",
+              "RelativeToolTip": "StockAgent.Infrastructure\\Clients\\Services\\AddFinnHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T18:03:58.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application\\Services\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "StockAgent.Application\\Services\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application\\Services\\DependencyInjection.cs",
+              "RelativeToolTip": "StockAgent.Application\\Services\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T18:25:05.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockPriceIngestionWorker.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Workers\\StockAgent.Worker.Ingestion\\StockPriceIngestionWorker.cs",
+              "RelativeDocumentMoniker": "StockAgent.Workers\\StockAgent.Worker.Ingestion\\StockPriceIngestionWorker.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Workers\\StockAgent.Worker.Ingestion\\StockPriceIngestionWorker.cs",
+              "RelativeToolTip": "StockAgent.Workers\\StockAgent.Worker.Ingestion\\StockPriceIngestionWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:23:24.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Workers\\StockAgent.Worker.Ingestion\\Program.cs",
+              "RelativeDocumentMoniker": "StockAgent.Workers\\StockAgent.Worker.Ingestion\\Program.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Workers\\StockAgent.Worker.Ingestion\\Program.cs",
+              "RelativeToolTip": "StockAgent.Workers\\StockAgent.Worker.Ingestion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:23:23.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStockApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application.Contracts\\Interfaces\\Clients\\IStockApiClient.cs",
+              "RelativeDocumentMoniker": "StockAgent.Application.Contracts\\Interfaces\\Clients\\IStockApiClient.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application.Contracts\\Interfaces\\Clients\\IStockApiClient.cs",
+              "RelativeToolTip": "StockAgent.Application.Contracts\\Interfaces\\Clients\\IStockApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:37:56.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FinnHubOptions.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Clients\\FinnHubOptions.cs",
+              "RelativeDocumentMoniker": "StockAgent.Infrastructure\\Clients\\FinnHubOptions.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\Clients\\FinnHubOptions.cs",
+              "RelativeToolTip": "StockAgent.Infrastructure\\Clients\\FinnHubOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T18:05:35.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.API\\appsettings.json",
-              "RelativeDocumentMoniker": "StockAgent.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.API\\appsettings.json",
-              "RelativeToolTip": "StockAgent.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Workers\\StockAgent.Worker.Ingestion\\appsettings.json",
+              "RelativeDocumentMoniker": "StockAgent.Workers\\StockAgent.Worker.Ingestion\\appsettings.json",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Workers\\StockAgent.Worker.Ingestion\\appsettings.json",
+              "RelativeToolTip": "StockAgent.Workers\\StockAgent.Worker.Ingestion\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-07T18:55:34.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-09T17:23:21.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Domain\\Entities\\Stock.cs",
+              "RelativeDocumentMoniker": "StockAgent.Domain\\Entities\\Stock.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Domain\\Entities\\Stock.cs",
+              "RelativeToolTip": "StockAgent.Domain\\Entities\\Stock.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA0wDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:40:20.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Isin.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Domain\\ValueObjects\\Isin.cs",
+              "RelativeDocumentMoniker": "StockAgent.Domain\\ValueObjects\\Isin.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Domain\\ValueObjects\\Isin.cs",
+              "RelativeToolTip": "StockAgent.Domain\\ValueObjects\\Isin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T19:45:05.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockAgent.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj",
+              "RelativeToolTip": "StockAgent.Infrastructure\\StockAgent.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T18:09:48.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sector.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Domain\\Enums\\Sector.cs",
+              "RelativeDocumentMoniker": "StockAgent.Domain\\Enums\\Sector.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Domain\\Enums\\Sector.cs",
+              "RelativeToolTip": "StockAgent.Domain\\Enums\\Sector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:46:36.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Industry.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Domain\\Enums\\Industry.cs",
+              "RelativeDocumentMoniker": "StockAgent.Domain\\Enums\\Industry.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Domain\\Enums\\Industry.cs",
+              "RelativeToolTip": "StockAgent.Domain\\Enums\\Industry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:46:55.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Exchange.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Domain\\Enums\\Exchange.cs",
+              "RelativeDocumentMoniker": "StockAgent.Domain\\Enums\\Exchange.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Domain\\Enums\\Exchange.cs",
+              "RelativeToolTip": "StockAgent.Domain\\Enums\\Exchange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:46:16.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application.Contracts\\Interfaces\\Repositories\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "StockAgent.Application.Contracts\\Interfaces\\Repositories\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application.Contracts\\Interfaces\\Repositories\\IStockRepository.cs",
+              "RelativeToolTip": "StockAgent.Application.Contracts\\Interfaces\\Repositories\\IStockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T17:38:38.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StockAgent.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application\\StockAgent.Application.csproj",
+              "RelativeDocumentMoniker": "StockAgent.Application\\StockAgent.Application.csproj",
+              "ToolTip": "C:\\Users\\SanthoshNaini\\Desktop\\Santhosh-Personal\\Learning\\StockAgent\\StockAgent.Application\\StockAgent.Application.csproj",
+              "RelativeToolTip": "StockAgent.Application\\StockAgent.Application.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAABIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-09T17:10:18.446Z"
             }
           ]
         },

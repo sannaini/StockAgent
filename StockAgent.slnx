@@ -6,4 +6,5 @@
   <Project Path="StockAgent.Domain/StockAgent.Domain.csproj" Id="75409707-d2b7-40e9-9623-e0dbbeeebba9" />
   <Project Path="StockAgent.Infrastructure/StockAgent.Infrastructure.csproj" Id="069639aa-e7e5-44f3-9ab1-575beb1073d7" />
   <Project Path="StockAgent.Shared/StockAgent.Shared.csproj" Id="aed8c6cb-b619-4bf7-ba04-9bf952c1da1a" />
+  <Project Path="StockAgent.Workers/StockAgent.Worker.Ingestion/StockAgent.Worker.Ingestion.csproj" Id="d9135d0a-8d57-44dd-96b2-d25f15c6a5a7" />
 </Solution>
