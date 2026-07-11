@@ -16,7 +16,15 @@ namespace StockAgent.Infrastructure.Clients
             var response = await result.ReadContentAsAsync
                 <FinnHubProfileResponse>("FinnHub", cancellationToken);
 
-            return response is null ? null : mapper.ToStockProfile(response);
+            if (response is null)
+                return null;
+
+            var stockProfile = mapper.ToStockProfile(response);
+            stockProfile.SetIsin(isin.Value);
+
+            return stockProfile;
+
         }
+        
     }
 }

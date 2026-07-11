@@ -12,6 +12,7 @@
         OilAndGas = 7,
         Retail = 8,
         Aerospace = 9,
-        MedicalDevices = 10
+        MedicalDevices = 10,
+        Technology= 11,
     }
 }

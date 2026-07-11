@@ -20,4 +20,9 @@
     <ProjectReference Include="..\StockAgent.Domain\StockAgent.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Clients\Models\NewFolder\" />
+    <Folder Include="Persistence\Models\" />
+  </ItemGroup>
+
 </Project>

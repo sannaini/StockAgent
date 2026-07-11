@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Riok.Mapperly.Abstractions;
+﻿using Riok.Mapperly.Abstractions;
 using StockAgent.Application.Contracts.Models;
 using StockAgent.Infrastructure.Clients.Models;
 
@@ -15,13 +12,14 @@ namespace StockAgent.Infrastructure.Mappers
             nameof(StockProfile.Symbol))]
         [MapProperty(
             nameof(FinnHubProfileResponse.FinnhubIndustry),
-            nameof(StockProfile.Industry))]
+            nameof(StockProfile.Sector))]
         [MapProperty(
             nameof(FinnHubProfileResponse.MarketCapitalization),
             nameof(StockProfile.MarketCap))]
         [MapProperty(
             nameof(FinnHubProfileResponse.ShareOutstanding),
             nameof(StockProfile.SharesOutstanding))]
+
 
         [MapperIgnoreSource(nameof(FinnHubProfileResponse.Logo))]
         [MapperIgnoreSource(nameof(FinnHubProfileResponse.Ipo))]
